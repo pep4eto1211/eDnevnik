@@ -1,0 +1,5 @@
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\MySQL Library\MySQL Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\MySQL Library\MySQL Library\bin\Debug\MySQL Library.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\MySQL Library\MySQL Library\bin\Debug\MySQL Library.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\MySQL Library\MySQL Library\obj\Debug\MySQL Library.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\MySQL Library\MySQL Library\obj\Debug\MySQL Library.pdb

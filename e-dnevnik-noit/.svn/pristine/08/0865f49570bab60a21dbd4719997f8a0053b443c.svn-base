@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL Test", "MySQL Test\MySQL Test.csproj", "{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL Library", "..\MySQL Library\MySQL Library\MySQL Library.csproj", "{F879EE62-6814-46A2-8392-F11709A2F12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Debug|x86.ActiveCfg = Debug|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Debug|x86.Build.0 = Debug|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Release|Any CPU.ActiveCfg = Release|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Release|x86.ActiveCfg = Release|x86
+		{7056E96C-0DCF-46B3-AD90-4B6BD042BF8B}.Release|x86.Build.0 = Release|x86
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F879EE62-6814-46A2-8392-F11709A2F12A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
